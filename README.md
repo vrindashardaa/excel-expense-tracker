@@ -5,7 +5,7 @@ It helps visualize where your money goes each month using **SUMIF formulas, cond
 
 ## 📂 Features
 - Add daily expenses and income
-- Automatic calculation of:
+- Automatic calculation of :
   - ✅ Total Income
   - ✅ Total Expenses
   - ✅ Balance (Savings)
