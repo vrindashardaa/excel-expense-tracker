@@ -16,7 +16,7 @@ It helps visualize where your money goes each month using **SUMIF formulas, cond
 - Microsoft Excel (Online/Desktop)
 
 - ## 🚀 How to Use
-1. Download the `Excel_Expense_Tracker.xlsx` file.
+1. Download the `Excel Expense Tracker.xlsx` file.
 2. Open it in Microsoft Excel or Google Sheets.
 3. Enter your transactions (Date, Category, Amount, Type).
 4. View total balance and expense breakdown automatically.
