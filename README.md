@@ -22,7 +22,8 @@ It helps visualize where your money goes each month using **SUMIF formulas, cond
 4. View total balance and expense breakdown automatically.
 
 ## 📸 Preview
-<img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/597ad7cd-6689-46ef-9629-0d5f4e2f6d3f" />
-<img width="1920" height="1080" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/2530d095-a477-4b51-870f-5050bd01c838" />
+![expensetracker-1](https://github.com/user-attachments/assets/d7841160-bc3e-4480-a9c2-cfca7a7f238e)
+![expensetracker-2](https://github.com/user-attachments/assets/90da9b59-25d3-47f8-9e5d-a3225742d48a)
+
 
 Made by Vrinda
